@@ -10,7 +10,9 @@ class Show < ActiveRecord::Base
     # binding.pry
   end
 
-
+  def self.lowest_rating
+    
+  end
 
 
 end
